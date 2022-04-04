@@ -17,3 +17,10 @@ As I'm sure you can tell if you take one look at the code, it is extremely
 - Large
 
 Therefore I will add commentary to the code in the near future, and i will also spread different things across different JS files, rather than having all functions, variables and both game scenes all in one file.
+
+## Bugs
+
+There are free bugs which in due course I will try patch. The bugs are:
+- When returning to the main menu from the game, the main menu music is extremely loud
+- When playing again, the music does not loop
+- You are able to like *half jump* midair, by clicking or pressing space again
