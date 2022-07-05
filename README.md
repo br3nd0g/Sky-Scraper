@@ -1,7 +1,7 @@
 # Sky-Scraper
 The game that I made for Replit's MadeWithReplit hackathon during march 2022, using Kaboom.js. To play the game you click or press space to jump between two buildings.
 
-[Kaboom.js](https://kaboomjs.com/) is a subset of JavaScript created by Replit which works as a game engine, handling physics and collision all from the code. It renders the game in browser, using HTML.
+[Kaboom.js](https://kaboomjs.com/) is a subset of JavaScript created by Tiga Wu, a team member at Replit. It works as a game engine, handling physics and collision all from the code. It renders the game in browser, using HTML Canvas.
 
 With this game I was one of the four honourable mentions in the MadeWithReplit hackathon.
 
