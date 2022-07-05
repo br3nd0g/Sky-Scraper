@@ -3,7 +3,7 @@ The game that I made for Replit's MadeWithReplit hackathon during march 2022, us
 
 [Kaboom.js](https://kaboomjs.com/) is a subset of JavaScript created by Tiga Wu, a team member at Replit. It works as a game engine, handling physics and collision all from the code. It renders the game in browser, using HTML Canvas.
 
-With this game I was one of the four honourable mentions in the MadeWithReplit hackathon.
+With this game I was one of the four honourable mentions in the MadeWithReplit hackathon. Take a look at it [here](https://portfolio.brendawg.repl.co/).
 
 ## What I learnt
 I had never used kaboom before the hackathon, so i taught myself how to use it, and found it rather similar to Unity but instead there is no interface to add collision and scripts to gameobjects, instead doing it all within the code.
